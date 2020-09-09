@@ -1,5 +1,4 @@
-
-* ESP32 TTGO T-DISPLAY and BME680*
+*ESP32 TTGO T-DISPLAY and BME680*
 
 In this project I use the BME680 with the BSEC library and a BME280. 
 
